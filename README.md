@@ -26,6 +26,9 @@
 </a>
 </p>
 
+<h1 align="center">About me</h1>
+<img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="Snake animation" />
+
 
 <h1 align="center">Technologies used</h1>
 <p align="center">
