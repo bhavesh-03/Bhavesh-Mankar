@@ -1,27 +1,42 @@
 ![MasterHead](header.png)
 
-<h2 align="center">Prgramming Enthusiast</h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h1 align="center">About me</h1>
+<p align="center">I am a full-stack cross-platform app developer, pursuing my Bachlors's degree in Computer Science from Vishwakarma Institute of Information Technology, Pune. I strive to make meaningful applications with best UI practices.</p>
 
-<p align="left"> <a href="https://twitter.com/bhavesh_mankar_" target="blank"><img src="https://img.shields.io/twitter/follow/bhavesh_mankar_?logo=twitter&style=for-the-badge" alt="bhavesh_mankar_" /></a> </p>
 
-- 🌱 I’m currently learning **React Js.**
-
-- 💬 Ask me about **Frontend Development, Web Development**
-
-- 📫 How to reach me **bmmankar25@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhavesh_mankar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesh_mankar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavesh mankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh mankar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhavesh_3" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/codechef.png" alt="bhavesh_3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhavesh003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhavesh003" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolio-bhavesh-03.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4T6WTv6uBYRTHP4T8H4rBiCSDDAZlFQMbIiabbt1IJj+SyGCwGGQ2yI+/gDJQFqVswkrX4vaeQjd3uK53eTvP8z2f5znfcx4V8Al8ADpe+y5AQQV8/SP5dtRFAVxfO/inWgBWqxW73U6j0ZBdnU5HPp+XeLvdotFoSCQSOJ1Ojscj9Xqd1WolWgGEw2EikQgul0sWFXE0GsVisXC9XimVSng8HvmbzWZisRgmk4n9fv8M0Ov1rNdr4vE4/X5fgJvNRpJGo5HEs9lMYN1u9xmQTqfx+/04HI57sbvdDp/Px3Q6lbXJZEKn06Hdbj8ACnE4HOL1egmFQgwGg9cAmUyGXC5HNpul2WxSq9VeA9xMDAaDVCoVDAYD5/NZIH8q4QZQq9UsFgtarRbVavVuotKV8XgsseJFuVz+3URFEAgEJFm5xel0ErHb7aZYLEobk8kkRqPx0UabzSau3+pWblEoFOj1esznc7RaLalUSgbpcDjIIC2Xy8cgvTvKbz+mt57zN2Iu1/Pn0ZHoAAAAAElFTkSuQmCC"/>
+  </a>
+  <a href="mailto://bmmankar25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDAwIDQwMDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGcgaWQ9IlhNTElEXzFfIj4NCgk8cG9seWdvbiBpZD0iWE1MSURfODY5XyIgcG9pbnRzPSIwLDEyNy41IDAsMjc0LjIxOSAxMDQuOCwyMDYuMSAJIi8+DQoJPHBvbHlnb24gaWQ9IlhNTElEXzg3MF8iIHBvaW50cz0iNDAwLDI3NC4yMTkgNDAwLDEyNy41IDI5NS4yLDIwNi4xIAkiLz4NCgk8cG9seWdvbiBpZD0iWE1MSURfODcxXyIgcG9pbnRzPSIyMDAsMjc3LjUgMTMwLjM1NywyMjUuMjY4IDAsMzEwIDAsMzQwIDQwMCwzNDAgNDAwLDMxMCAyNjkuNjQzLDIyNS4yNjggCSIvPg0KCTxwb2x5Z29uIGlkPSJYTUxJRF84NzJfIiBwb2ludHM9IjAsOTAgMjAwLDI0MCA0MDAsOTAgNDAwLDYwIDAsNjAgCSIvPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo="/>
+  </a>
+  <a href="https://www.linkedin.com/in/bhavesh-mankar-7420ba22a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">GitHub stats</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kausko&theme=react&show_icons=true&count_private=true&include_all_commits=true&line_height=24"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausko&hide=Jupyter%20Notebook&theme=react&layout=compact&langs_count=8"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-03&show_icons=true&locale=en&layout=compact" alt="bhavesh-03" /></p>
 
-
+<h1 align="center">Technologies used</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
